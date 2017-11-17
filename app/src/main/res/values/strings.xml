@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="action_settings">Settings</string>
+    <string name="addItem">Add First Item</string>
+    <string name="addGroceryItem">Enter Grocery Item</string>
+    <string name="saveText">SAVE</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="surity">Are You Sure ?</string>
+</resources>
